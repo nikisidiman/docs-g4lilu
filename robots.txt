@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-jymufj.cahayatoto88oke.online/sitemap.xml
